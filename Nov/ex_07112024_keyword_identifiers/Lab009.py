@@ -1,0 +1,2 @@
+long_var_is_created_now = 45
+print(long_var_is_created_now)
